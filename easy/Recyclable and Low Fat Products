@@ -1,0 +1,8 @@
+-- Problem 1757: Recyclable and Low Fat Products
+-- https://leetcode.com/problems/recyclable-and-low-fat-products
+-- Schema: Products (product_id, low_fats, recyclable)
+-- Task: To find the ids of products that are both low fat and recyclable.
+
+select product_id from products
+where low_fats='Y'
+and recyclable = 'Y';
