@@ -1,23 +1,19 @@
 # sql-leetcode-practice
 
-My SQL practice solutions from the LeetCode SQL study plan, documented as I learn.
-
-🎓 Math graduate, currently building SQL skills toward a career in data analysis.
-
-📈 Working through LeetCode's SQL problems from Easy up, one at a time.
+Hi, I'm Zulfa, a math graduate currently exploring a path to becoming a data analyst. I'm practicing SQL daily, working through a LeetCode SQL study plan. These are my SQL practice solutions, documented as I learn.
 
 ## Progress
 
 | # | Problem | Difficulty | Concept | Status |
 |---|---------|------------|---------|--------|
-| 176 | Second Highest Salary | Easy | Subquery + LIMIT/OFFSET | ✅ Done |
+| 1757 | Recyclable and Low Fat Products | Easy | WHERE + AND | ✅ Done |
 
 ## Structure
 
 ```
 sql-leetcode-practice/
 ├── easy/
-│   └── 176_second_highest_salary.sql
+│   └── 1757. Recyclable and Low Fat Products
 ├── medium/
 └── hard/
 ```
